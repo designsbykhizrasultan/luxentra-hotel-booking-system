@@ -1,0 +1,33 @@
+# 🏨 Luxentra Project UI/UX Design
+
+## 🎨 Live Prototype
+👉 https://www.figma.com/proto/Vc7MEHp8b0rOzscoPE3DNn/Posts?node-id=1447-1059&t=J9p1sv76ozLlpPnB-1&scaling=scale-down-width&content-scaling=fixed&hide-ui=1
+
+---
+
+## 📌 About Project
+**Luxentra** is a modern hotel reservation website UI/UX design focused on delivering a smooth and premium booking experience.  
+The design emphasizes luxury aesthetics, easy navigation, and a seamless user journey from browsing hotels to completing reservations.
+
+---
+
+## ✨ Features
+- 🏨 Elegant Home Page Design  
+- 🔍 Smart Hotel Search & Listing UI  
+- 📅 Smooth Booking Flow  
+- 💳 Checkout & Reservation Concept  
+- 📱 Responsive UI Design  
+
+---
+
+## 🛠 Tools Used
+- :contentReference[oaicite:1]{index=1}  
+- UI assets from free design resources  
+
+---
+
+## 📸 Screenshots
+```md
+![Home](images/home.png)
+![Listing](images/listing.png)
+![Booking](images/booking.png)
